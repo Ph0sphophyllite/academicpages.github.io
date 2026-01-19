@@ -1,0 +1,17 @@
+- name: Professor Zhang
+  role: Principal Investigator
+  email: zhang@university.edu
+  github: https://github.com/profzhang
+  page: zhang
+
+- name: Alice Li
+  role: PhD Student
+  email: alice@university.edu
+  github: https://github.com/aliceli
+  page: alice
+
+- name: Bob Wang
+  role: Master Student
+  email: bob@university.edu
+  github: https://github.com/bobwang
+  page: bob
