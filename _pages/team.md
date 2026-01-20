@@ -1,6 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Team"
+author_profile: false
+wide: true
 permalink: /team/
 ---
 
