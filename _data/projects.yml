@@ -1,0 +1,11 @@
+- title: AI for Medical Imaging
+  description: Deep learning based diagnosis system.
+  lead: Professor Zhang
+  github: https://github.com/xyzlab/medical-ai
+  page: medical-ai
+
+- title: Autonomous Driving Vision
+  description: Perception system for self-driving cars.
+  lead: Alice Li
+  github: https://github.com/xyzlab/autonomous-vision
+  page: autonomous-vision
